@@ -29,9 +29,7 @@ for i in range(iteration):
     
     if(abs(step) <= precision):
         break
-    
-    
-    
+  
 y_pred = m*X + c
 
 plt.scatter(X, y, color = 'blue')
