@@ -43,11 +43,3 @@ plt.ylabel('Salary')
 plt.plot(X, y_pred, color = 'red')
 
 plt.show()
-
-
-    
-
-
-
-
-
