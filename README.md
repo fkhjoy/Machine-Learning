@@ -3,7 +3,7 @@ Machine Learning
 
 This repository represents all things that I am learning by doing and practicing. Some of those are written using  built in libraries and some are manually implemented.
 
-**Introduction to Deep Learning by National Research University Higher School of Economics**
+**Introduction to Deep Learning** by National Research University Higher School of Economics
 
 
   - **Week1**    
