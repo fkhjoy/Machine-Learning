@@ -10,7 +10,6 @@ This repository represents all things that I am learning by doing and practicing
     - [x] Linear models and optimization
 
   - **Week2**
-    - [x] Linear models and optimization
     - [x] Intro to tensorflow
     - [x] MNIST digit classification with TF
     - [ ] Solving MNIST with Keras
