@@ -7,7 +7,7 @@ This repository represents all things that I am learning by doing and practicing
 
 
   - **Week1**    
-    - [x] Linear models and ptimization
+    - [x] Linear models and optimization
 
   - **Week2**
     - [x] Linear models and optimization
