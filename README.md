@@ -21,7 +21,7 @@ This repository represents all things that I am learning by doing and practicing
     - [ ] Simple autoencoder
     - [ ] Generative Adversarial Networks
   - **Week 5 Deep Learning for Sequences**
-    - [ ] Generating names with RNNs
+    - [x] Generating names with RNNs
     - [ ] RNNs in Keras
   - **Week 6 Final Project**
     - [ ] Image Captioning Final Project
